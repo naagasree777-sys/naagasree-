@@ -1,0 +1,6 @@
+{
+  "name": "Naagasree Govindula Portfolio",
+  "description": "Responsive personal vCard portfolio web app for Naagasree Govindula, data science student.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
